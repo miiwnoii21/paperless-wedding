@@ -4,11 +4,11 @@
 
 @layer base {
   @font-face {
-    font-family: JosefinSans;
-    src: url('../static/fonts/JosefinSans-Light.ttf') format('ttf');
+    font-family: 'JosefinSans';
+    src: url('../static/fonts/JosefinSans-Light.ttf') format('truetype');
   }
 
   html {
-    font-family: JosefinSans, system-ui, sans-serif;
+    @apply font-primary;
   }
 }

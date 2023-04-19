@@ -1,7 +1,7 @@
 export default function Display() {
   return (
     <div class="grid grid-cols-5 text-terracotta-600 relative md:h-5/6">
-      <div class="col-span-5 md:col-span-3 font-josef-in-sans">
+      <div class="col-span-5 md:col-span-3">
         <div>Miiw &</div>
         <div>Meng</div>
         <div>We're getting married</div>

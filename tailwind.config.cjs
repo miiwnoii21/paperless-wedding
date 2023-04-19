@@ -16,7 +16,7 @@ module.exports = {
     },
     extend: {
       fontFamily: {
-        'josef-in-sans': ['JosefinSans'],
+        primary: ['JosefinSans', 'system-ui', 'sans-serif'],
       },
     },
   },
