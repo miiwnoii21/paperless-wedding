@@ -1,10 +1,14 @@
 import { A } from 'solid-start';
 import Counter from '~/components/Counter';
+import Subtitle from '~/components/Subtitle';
+import Headline from '~/components/Headline';
 
 export default function Home() {
   return (
-    <main class="text-center mx-auto text-gray-700 p-4">
-      <h1 class="max-6-xs text-6xl text-sky-700 font-thin uppercase my-16">
+    <main class="mx-auto p-4 bg-terracotta-50 md:h-screen">
+      <Subtitle text="We can't wait to be surrounded by our favorite people!" />
+      <Headline />
+      {/* <h1 class="max-6-xs text-6xl text-sky-700 font-thin uppercase my-16">
         Hello world!
       </h1>
       <Counter text="home" />
@@ -25,7 +29,7 @@ export default function Home() {
         <A href="/about" class="text-sky-600 hover:underline">
           About Page
         </A>{' '}
-      </p>
+      </p> */}
     </main>
   );
 }

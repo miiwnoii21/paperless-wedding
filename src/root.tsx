@@ -31,7 +31,7 @@ export default function Root() {
       <Body>
         <Suspense>
           <ErrorBoundary>
-            <nav class="bg-sky-800">
+            <nav class="bg-terracotta-50">
               <ul class="container flex items-center p-3 text-gray-200">
                 <li class={`border-b-2 ${active('/')} mx-1.5 sm:mx-6`}>
                   <A href="/">Home</A>
