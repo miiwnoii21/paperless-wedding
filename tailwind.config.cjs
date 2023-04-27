@@ -13,8 +13,20 @@ module.exports = {
           600: '#BB6A4B',
         },
       },
+      height: {
+        116: '29rem',
+        120: '30rem',
+        140: '35rem',
+        200: '50rem',
+      },
+      width: {
+        120: '30rem',
+        140: '35rem',
+        200: '50rem',
+      },
       fontFamily: {
-        primary: ['JosefinSans', 'system-ui', 'sans-serif'],
+        primary: ['Fahkwang', 'system-ui', 'sans-serif'],
+        thai: ['KaniGa Regular'],
       },
     },
   },

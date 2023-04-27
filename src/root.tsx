@@ -22,16 +22,16 @@ export default function Root() {
       ? 'border-terracotta-600'
       : 'border-transparent hover:border-terracotta-600';
   return (
-    <Html lang="en">
+    <Html lang="en" class="bg-terracotta-50 text-terracotta-600">
       <Head>
-        <Title>Paperless Wedding</Title>
+        <Title>#MiiwMengOnTheCloudNine</Title>
         <Meta charset="utf-8" />
         <Meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <Body>
         <Suspense>
           <ErrorBoundary>
-            <nav class="bg-terracotta-50">
+            {/* <nav class="bg-terracotta-50">
               <ul class="container flex items-center p-3 text-terracotta-500">
                 <li class={`border-b-2 ${active('/')} mx-1.5 sm:mx-6`}>
                   <A href="/">Home</A>
@@ -40,7 +40,7 @@ export default function Root() {
                   <A href="/about">About</A>
                 </li>
               </ul>
-            </nav>
+            </nav> */}
             <Routes>
               <FileRoutes />
             </Routes>

@@ -2,12 +2,18 @@ import { A } from 'solid-start';
 import Counter from '~/components/Counter';
 import Subtitle from '~/components/Subtitle';
 import Headline from '~/components/Headline';
+import Agenda from '~/components/Agenda';
+import AdditionalDetail from '~/components/AdditionalDetail';
+import Gallery from '~/components/Gallery';
 
 export default function Home() {
   return (
-    <main class="mx-auto p-4 bg-terracotta-50 md:h-screen">
-      <Subtitle text="We can't wait to be surrounded by our favorite people!" />
+    <main class="mx-auto md:h-screen">
       <Headline />
+      <Subtitle text="#MiiwMengOnTheCloudNine" />
+      <Agenda />
+      <Gallery />
+      <AdditionalDetail />
       {/* <h1 class="max-6-xs text-6xl text-sky-700 font-thin uppercase my-16">
         Hello world!
       </h1>

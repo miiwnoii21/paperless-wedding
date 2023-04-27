@@ -4,8 +4,18 @@
 
 @layer base {
   @font-face {
-    font-family: 'JosefinSans';
-    src: url('../static/fonts/JosefinSans-Light.ttf') format('truetype');
+    font-family: 'Fahkwang';
+    src: url('../static/fonts/Fahkwang-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+  }
+  @font-face {
+    font-family: 'Fahkwang';
+    src: url('../static/fonts/Fahkwang-Regular.ttf') format('truetype');
+    font-weight: 400;
+  }
+  @font-face {
+    font-family: 'KaniGa Regular';
+    src: url('../static/fonts/KaniGa Regular.ttf') format('truetype');
   }
 
   html {
