@@ -4,7 +4,7 @@ export default function AdditionalDetail() {
       <div class="col-span-3 md:col-span-2">
         <div class="text-2xl md:text-3xl">Location</div>
         <div class="pt-3 pb-6 font-thai text-2xl md:text-2xl">
-          A' GAVE GALA พุทธมณฑลสาย 2, กรุงเทพฯ
+          A' gave gala พุทธมณฑลสาย 2, กรุงเทพฯ
         </div>
         <a
           href="https://www.google.com/maps/place/A+gave+gala/@13.7716766,100.4007258,17z/data=!3m1!4b1!4m6!3m5!1s0x30e291d974bf5c07:0x52692e9b54a84136!8m2!3d13.7716766!4d100.4029145!16s%2Fg%2F11t8dmy00f"

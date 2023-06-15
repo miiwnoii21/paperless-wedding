@@ -1,0 +1,138 @@
+{
+  "\u0000vite/modulepreload-polyfill": [
+    "/assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "/assets/Fahkwang-Regular-f9e500c4.ttf",
+    "/assets/KaniGa Regular-7740d869.ttf"
+  ],
+  "\u0000vite/preload-helper": [
+    "/assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "/assets/Fahkwang-Regular-f9e500c4.ttf",
+    "/assets/KaniGa Regular-7740d869.ttf"
+  ],
+  ".solid/index.html": [
+    "/assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "/assets/Fahkwang-Regular-f9e500c4.ttf",
+    "/assets/KaniGa Regular-7740d869.ttf"
+  ],
+  "node_modules/@solidjs/meta/dist/index.jsx": [
+    "/assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "/assets/Fahkwang-Regular-f9e500c4.ttf",
+    "/assets/KaniGa Regular-7740d869.ttf"
+  ],
+  "node_modules/@solidjs/router/dist/components.jsx": [
+    "/assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "/assets/Fahkwang-Regular-f9e500c4.ttf",
+    "/assets/KaniGa Regular-7740d869.ttf"
+  ],
+  "node_modules/@solidjs/router/dist/integration.js": [
+    "/assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "/assets/Fahkwang-Regular-f9e500c4.ttf",
+    "/assets/KaniGa Regular-7740d869.ttf"
+  ],
+  "node_modules/@solidjs/router/dist/lifecycle.js": [
+    "/assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "/assets/Fahkwang-Regular-f9e500c4.ttf",
+    "/assets/KaniGa Regular-7740d869.ttf"
+  ],
+  "node_modules/@solidjs/router/dist/routing.js": [
+    "/assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "/assets/Fahkwang-Regular-f9e500c4.ttf",
+    "/assets/KaniGa Regular-7740d869.ttf"
+  ],
+  "node_modules/@solidjs/router/dist/utils.js": [
+    "/assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "/assets/Fahkwang-Regular-f9e500c4.ttf",
+    "/assets/KaniGa Regular-7740d869.ttf"
+  ],
+  "node_modules/solid-js/dist/solid.js": [
+    "/assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "/assets/Fahkwang-Regular-f9e500c4.ttf",
+    "/assets/KaniGa Regular-7740d869.ttf"
+  ],
+  "node_modules/solid-js/web/dist/web.js": [
+    "/assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "/assets/Fahkwang-Regular-f9e500c4.ttf",
+    "/assets/KaniGa Regular-7740d869.ttf"
+  ],
+  "node_modules/solid-start/entry-client/StartClient.tsx": [
+    "/assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "/assets/Fahkwang-Regular-f9e500c4.ttf",
+    "/assets/KaniGa Regular-7740d869.ttf"
+  ],
+  "node_modules/solid-start/entry-client/mount.tsx": [
+    "/assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "/assets/Fahkwang-Regular-f9e500c4.ttf",
+    "/assets/KaniGa Regular-7740d869.ttf"
+  ],
+  "node_modules/solid-start/error-boundary/ErrorBoundary.tsx": [
+    "/assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "/assets/Fahkwang-Regular-f9e500c4.ttf",
+    "/assets/KaniGa Regular-7740d869.ttf"
+  ],
+  "node_modules/solid-start/root/Document.tsx": [
+    "/assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "/assets/Fahkwang-Regular-f9e500c4.ttf",
+    "/assets/KaniGa Regular-7740d869.ttf"
+  ],
+  "node_modules/solid-start/root/FileRoutes.tsx": [
+    "/assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "/assets/Fahkwang-Regular-f9e500c4.ttf",
+    "/assets/KaniGa Regular-7740d869.ttf"
+  ],
+  "node_modules/solid-start/root/Scripts.tsx": [
+    "/assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "/assets/Fahkwang-Regular-f9e500c4.ttf",
+    "/assets/KaniGa Regular-7740d869.ttf"
+  ],
+  "node_modules/solid-start/router.tsx": [
+    "/assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "/assets/Fahkwang-Regular-f9e500c4.ttf",
+    "/assets/KaniGa Regular-7740d869.ttf"
+  ],
+  "node_modules/solid-start/server/ServerContext.tsx": [
+    "/assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "/assets/Fahkwang-Regular-f9e500c4.ttf",
+    "/assets/KaniGa Regular-7740d869.ttf"
+  ],
+  "node_modules/solid-start/server/types.tsx": [
+    "/assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "/assets/Fahkwang-Regular-f9e500c4.ttf",
+    "/assets/KaniGa Regular-7740d869.ttf"
+  ],
+  "src/components/AdditionalDetail.tsx": [
+    "/assets/index-9d678f5c.js"
+  ],
+  "src/components/Agenda.tsx": [
+    "/assets/index-9d678f5c.js"
+  ],
+  "src/components/Gallery.tsx": [
+    "/assets/index-9d678f5c.js"
+  ],
+  "src/components/Headline.tsx": [
+    "/assets/index-9d678f5c.js"
+  ],
+  "src/components/Subtitle.tsx": [
+    "/assets/index-9d678f5c.js"
+  ],
+  "src/entry-client.tsx": [
+    "/assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "/assets/Fahkwang-Regular-f9e500c4.ttf",
+    "/assets/KaniGa Regular-7740d869.ttf"
+  ],
+  "src/root.css": [
+    "/assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "/assets/Fahkwang-Regular-f9e500c4.ttf",
+    "/assets/KaniGa Regular-7740d869.ttf"
+  ],
+  "src/root.tsx": [
+    "/assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "/assets/Fahkwang-Regular-f9e500c4.ttf",
+    "/assets/KaniGa Regular-7740d869.ttf"
+  ],
+  "src/routes/[...404].tsx": [
+    "/assets/_...404_-d8d54d3f.js"
+  ],
+  "src/routes/index.tsx": [
+    "/assets/index-9d678f5c.js"
+  ]
+}

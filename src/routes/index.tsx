@@ -1,4 +1,3 @@
-import { A } from 'solid-start';
 import Counter from '~/components/Counter';
 import Subtitle from '~/components/Subtitle';
 import Headline from '~/components/Headline';
@@ -6,6 +5,7 @@ import Agenda from '~/components/Agenda';
 import AdditionalDetail from '~/components/AdditionalDetail';
 import Gallery from '~/components/Gallery';
 
+//function
 export default function Home() {
   return (
     <main class="mx-auto md:h-screen">

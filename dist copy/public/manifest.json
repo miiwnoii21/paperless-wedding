@@ -1,0 +1,51 @@
+{
+  ".solid/index.css": {
+    "file": "assets/index-841a632b.css",
+    "src": ".solid/index.css"
+  },
+  ".solid/index.html": {
+    "assets": [
+      "assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+      "assets/Fahkwang-Regular-f9e500c4.ttf",
+      "assets/KaniGa Regular-7740d869.ttf"
+    ],
+    "css": [
+      "assets/index-841a632b.css"
+    ],
+    "dynamicImports": [
+      "src/routes/[...404].tsx",
+      "src/routes/index.tsx"
+    ],
+    "file": "assets/index-5f7fce70.js",
+    "isEntry": true,
+    "src": ".solid/index.html"
+  },
+  "public/fonts/Fahkwang-ExtraLight.ttf": {
+    "file": "assets/Fahkwang-ExtraLight-2083d2b1.ttf",
+    "src": "public/fonts/Fahkwang-ExtraLight.ttf"
+  },
+  "public/fonts/Fahkwang-Regular.ttf": {
+    "file": "assets/Fahkwang-Regular-f9e500c4.ttf",
+    "src": "public/fonts/Fahkwang-Regular.ttf"
+  },
+  "public/fonts/KaniGa Regular.ttf": {
+    "file": "assets/KaniGa Regular-7740d869.ttf",
+    "src": "public/fonts/KaniGa Regular.ttf"
+  },
+  "src/routes/[...404].tsx": {
+    "file": "assets/_...404_-d8d54d3f.js",
+    "imports": [
+      ".solid/index.html"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/[...404].tsx"
+  },
+  "src/routes/index.tsx": {
+    "file": "assets/index-9d678f5c.js",
+    "imports": [
+      ".solid/index.html"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/index.tsx"
+  }
+}

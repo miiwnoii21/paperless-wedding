@@ -1,7 +1,7 @@
 export default function Agenda() {
   return (
     <div class="grid grid-cols-3 relative md:h-140 min-h-44 md:min-h-64 md:px-32 pt-0 md:pt-2.5 font-thai text-2xl bg-[#ecd2c4]">
-      <div class="col-span-3 md:col-span-2 bg-[url('../../static/images/agenda-img.jpeg')] bg-cover h-60 md:h-120 md:w-200"></div>
+      <div class="col-span-3 md:col-span-2 bg-[url('../../public/images/agenda-img.jpeg')] bg-cover h-60 md:h-120 md:w-200"></div>
       <div class="col-span-3 md:col-span-1 pl-10">
         <ol class="border-l border-neutral-400 dark:border-neutral-500">
           <li>
@@ -25,7 +25,7 @@ export default function Agenda() {
           <li>
             <div class="flex-start flex items-center pt-2">
               <div class="-ml-[5px] mr-3 h-[9px] w-[9px] rounded-full bg-neutral-400 dark:bg-neutral-500"></div>
-              <p class="text-neutral-500 dark:text-neutral-300">11.00 AM</p>
+              <p class="text-neutral-500 dark:text-neutral-300">10.00 AM</p>
             </div>
             <div class="ml-4 mt-2 pb-5">
               <h4 class="mb-1.5 font-semibold">พิธีหลั่งน้ำพระพุทธมนต์</h4>
@@ -34,7 +34,7 @@ export default function Agenda() {
           <li>
             <div class="flex-start flex items-center pt-2">
               <div class="-ml-[5px] mr-3 h-[9px] w-[9px] rounded-full bg-neutral-400 dark:bg-neutral-500"></div>
-              <p class="text-neutral-500 dark:text-neutral-300">10.00 AM</p>
+              <p class="text-neutral-500 dark:text-neutral-300">11.00 AM</p>
             </div>
             <div class="ml-4 mt-2 pb-2">
               <h4 class="mb-1.5 font-semibold">ฉลองมงคลสมรส(โต๊ะจีน)</h4>
