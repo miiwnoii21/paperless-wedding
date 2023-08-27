@@ -8,8 +8,9 @@ export default function AdditionalDetail() {
         </div>
         <a
           href="https://www.google.com/maps/place/A+gave+gala/@13.7716766,100.4007258,17z/data=!3m1!4b1!4m6!3m5!1s0x30e291d974bf5c07:0x52692e9b54a84136!8m2!3d13.7716766!4d100.4029145!16s%2Fg%2F11t8dmy00f"
-          class="button rounded-full border-2 p-3 border-terracotta-600 bg-bg-terracotta-50 text-terracotta-600
+          class="button rounded-full border-2 p-3 border-terracotta-600 bg-bg-terracotta-50 text-terracotta-600 transition
           hover:bg-terracotta-600 hover:text-terracotta-50"
+          target="_blank"
         >
           Open on map
         </a>

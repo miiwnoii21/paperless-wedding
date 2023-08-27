@@ -31,10 +31,12 @@ export default function Headline() {
 
       <div class="col-span-5 md:col-span-2 bg-[url('https://static.wixstatic.com/media/84770f_37a6262eeb2e45c88f75a5b79ffeec9a~mv2.jpg/v1/fill/w_592,h_800,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/84770f_37a6262eeb2e45c88f75a5b79ffeec9a~mv2.jpg')] bg-cover md:h-full h-72 bg-fixed"></div>
       <div class="absolute right-1/4 top-3/4 -translate-y-3/4 md:top-1/2 md:-translate-y-1/2">
-        <img
-          src="../../public/images/headline-img.jpeg"
-          class="h-60 md:h-96"
-        ></img>
+        <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1000">
+          <img
+            src="../../public/images/headline-img.jpeg"
+            class="h-60 md:h-96"
+          ></img>
+        </div>
       </div>
     </div>
   );

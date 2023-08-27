@@ -1,5 +1,5 @@
 // @refresh reload
-import { Suspense } from 'solid-js';
+import { onMount, Suspense } from 'solid-js';
 import {
   useLocation,
   A,
@@ -13,6 +13,8 @@ import {
   Scripts,
   Title,
 } from 'solid-start';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 import './root.css';
 
 export default function Root() {
@@ -21,6 +23,11 @@ export default function Root() {
     path == location.pathname
       ? 'border-terracotta-600'
       : 'border-transparent hover:border-terracotta-600';
+
+  onMount(() => {
+    AOS.init();
+  });
+
   return (
     <Html lang="en" class="bg-terracotta-50 text-terracotta-600">
       <Head>
