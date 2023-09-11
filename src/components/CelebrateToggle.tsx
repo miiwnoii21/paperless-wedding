@@ -24,21 +24,21 @@ export default function CelebrateToggle() {
             <div class="block bg-[#CD8A6E] w-8 h-5 rounded-full"></div>
             <div class="dot absolute left-1 top-1 bg-white w-3 h-3 rounded-full transition"></div>
           </div>
-          <div class="ml-3 text-2xl">ร่วมยินดี</div>
+          <div class="ml-3 text-2xl">Celebrate with us</div>
         </label>
       </div>
       {isCelebrate() && (
         <div class="snowflakes" aria-hidden="true">
-          <div class="snowflake">🍀</div>
-          <div class="snowflake">🌼</div>
-          <div class="snowflake">🌺</div>
-          <div class="snowflake">🌹</div>
-          <div class="snowflake">🌸</div>
-          <div class="snowflake">🌷</div>
-          <div class="snowflake">💮</div>
-          <div class="snowflake">💐</div>
-          <div class="snowflake">🏵</div>
+          <div class="snowflake">♡</div>
           <div class="snowflake">❀</div>
+          <div class="snowflake">✧</div>
+          <div class="snowflake">ꕤ</div>
+          <div class="snowflake">✿</div>
+          <div class="snowflake">❀</div>
+          <div class="snowflake">✧</div>
+          <div class="snowflake">❀</div>
+          <div class="snowflake">✿</div>
+          <div class="snowflake">♡</div>
         </div>
       )}
     </div>

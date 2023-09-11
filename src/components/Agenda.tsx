@@ -2,7 +2,7 @@ export default function Agenda() {
   return (
     <div class="grid grid-cols-3 relative md:h-140 min-h-44 md:min-h-64 md:px-32 pt-0 md:pt-2.5 font-thai text-2xl bg-[#ecd2c4]">
       <div
-        class="col-span-3 md:col-span-2 bg-[url('../../public/images/agenda-img.jpeg')] bg-cover h-60 md:h-120 md:w-200"
+        class="col-span-3 md:col-span-2 bg-[url('/images/agenda-img.jpeg')] bg-cover h-60 md:h-120 md:w-200"
         data-aos="fade-down-right"
         data-aos-duration="3000"
       ></div>

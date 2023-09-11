@@ -12,7 +12,7 @@ export default function Gallery() {
           data-aos-duration="1500"
           data-aos-delay="100"
         >
-          <div class="h-80 md:h-116 hover:scale-[1.05] ease-in duration-500 bg-[url('../../public/images/gallery-04.jpeg')] bg-cover my-0.5 md:m-1"></div>
+          <div class="h-80 md:h-116 hover:scale-[1.05] ease-in duration-500 bg-[url('/images/gallery-04.jpeg')] bg-cover my-0.5 md:m-1"></div>
         </div>
 
         <div
@@ -21,7 +21,7 @@ export default function Gallery() {
           data-aos-duration="2500"
           data-aos-delay="500"
         >
-          <div class="h-80 md:h-116 hover:scale-[1.05] ease-in duration-500 bg-[url('../../public/images/gallery-05.jpeg')] bg-cover my-0.5 md:m-1"></div>
+          <div class="h-80 md:h-116 hover:scale-[1.05] ease-in duration-500 bg-[url('/images/gallery-05.jpeg')] bg-cover my-0.5 md:m-1"></div>
         </div>
 
         <div
@@ -30,7 +30,7 @@ export default function Gallery() {
           data-aos-duration="1500"
           data-aos-delay="1000"
         >
-          <div class="h-80 md:h-116 hover:scale-[1.05] ease-in duration-500 bg-[url('../../public/images/gallery-06.jpeg')] bg-cover my-0.5 md:m-1"></div>
+          <div class="h-80 md:h-116 hover:scale-[1.05] ease-in duration-500 bg-[url('/images/gallery-06.jpeg')] bg-cover my-0.5 md:m-1"></div>
         </div>
       </div>
       <div class="text-4xl pt-10 px-10 md:px-0 md:text-right">

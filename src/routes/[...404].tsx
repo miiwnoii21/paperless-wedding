@@ -5,10 +5,7 @@ export default function NotFound() {
       <p class="my-8 text-4xl font-thai">
         ไม่พบหน้าที่ต้องการ พบแต่หน้าเจ้าสาวคร้าบบบบ
       </p>
-      <img
-        src="../../public/images/error-img.jpg"
-        class="mx-auto h-60 md:h-96"
-      ></img>
+      <img src="/images/error-img.jpg" class="mx-auto h-60 md:h-96"></img>
       <a
         href="/"
         class="inline-block button rounded-full border-2 m-8 p-3 border-terracotta-600 bg-bg-terracotta-50 text-terracotta-600 transition
